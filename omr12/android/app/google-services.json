@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "754720023733",
+    "project_id": "hellow-5cebd",
+    "storage_bucket": "hellow-5cebd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754720023733:android:87b1aa1cd65fb243bdcafc",
+        "android_client_info": {
+          "package_name": "com.example.omr12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754720023733-gngitbpm4h6ejoo37foejc130obh3tjh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4mU9ewVEwCvrW9BjqkETyKjcGz2R2tfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754720023733-gngitbpm4h6ejoo37foejc130obh3tjh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
